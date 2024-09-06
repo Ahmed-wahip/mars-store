@@ -90,5 +90,9 @@
     "last_orders_titel_msg": "Your last orders",
     "orders_for_last_month_msg": "Your orders for the last month",
     "timer_orders_titel_msg": "Time of your order",
-    "persin_setting_titel_msg": "Person account setting"
+    "persin_setting_titel_msg": "Person account setting",
+    "user_location_msg": "location",
+    "user_size_product_msg": "Size order",
+    "product_name_msg": "Product name",
+    "cancel_buttom_msg": "cancellation"
 }

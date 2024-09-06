@@ -76,8 +76,13 @@ class IconApp {
   String lastOrderIcon = "assets/icons/last-order-icon.svg";
 
   // carera edit icon
-
   String cameraIcon = "assets/icons/camera-icon.svg";
+
+  // Size product icon
+  String sizeProductIcon = "assets/icons/size-product-icon.svg";
+
+  // clothe icon
+  String clotheIcon = "assets/icons/clothes_icon.svg";
 
   // ! recordings icons
   // log out icon

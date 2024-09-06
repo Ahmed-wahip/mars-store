@@ -113,7 +113,11 @@ class OtpFunctions {
     );
   }
 
-  void aginSendOtp() {}
+  void aginSendOtp(BuildContext context) {
+     ScaffoldMessenger.of(context).showSnackBar(
+      snackBarError("waiting_msg", iconApp.infoIcon),
+    );
+  }
 }
 
 OtpFunctions otpFunctions = OtpFunctions();

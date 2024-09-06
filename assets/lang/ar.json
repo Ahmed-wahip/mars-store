@@ -90,5 +90,9 @@
     "last_orders_titel_msg": "طلباتك الاخيره",
     "orders_for_last_month_msg": "طلباتك الشهر الماضي",
     "timer_orders_titel_msg": "زمن وصول طلبك",
-    "persin_setting_titel_msg": "اعدادات الملف الشخصي"
+    "persin_setting_titel_msg": "اعدادات الملف الشخصي",
+    "user_location_msg": "العنوان",
+    "user_size_product_msg": "المقاس",
+    "product_name_msg": "اسم المنتج",
+    "cancel_buttom_msg": "الغاء"
 }

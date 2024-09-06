@@ -10,10 +10,9 @@ NavigatorBarBloc blocNavigator = NavigatorBarBloc();
 
 class NavigatorBarBloc extends Bloc<NavigatorEvent, NavigatorBarState> {
   int currenIndex = 0;
-  int index = 0;
+  // int index = 0;
   NavigatorBarBloc() : super(NavigatorInitial()) {
     on<NavigatorEvent>(
-      
       (event, emit) {
         event = TransitionEvent();
         emit(

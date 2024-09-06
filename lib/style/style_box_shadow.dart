@@ -4,7 +4,7 @@ import 'package:mars/core/color_app.dart';
 class StyleBoxShadow {
   BoxShadow primerBoxShadow = BoxShadow(
     color: ColorApp.primerColor.withOpacity(0.7),
-    offset: const Offset(0, 5),
+    offset: const Offset(0, 2),
     blurRadius: 8,
   );
   BoxShadow backBoxShadow = BoxShadow(

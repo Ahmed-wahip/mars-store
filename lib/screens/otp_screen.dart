@@ -87,7 +87,7 @@ class OtpScreen extends StatelessWidget {
                       ),
                     ),
                     secondChild: TextButton(
-                      onPressed: () => otpFunctions.aginSendOtp(),
+                      onPressed: () => otpFunctions.aginSendOtp(context),
                       child: Text(
                         "send_code_again_msg".tr(context),
                         style: TextStyle(

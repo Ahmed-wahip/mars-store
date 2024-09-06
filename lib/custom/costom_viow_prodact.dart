@@ -32,7 +32,6 @@ class CustomViewProdicts extends StatelessWidget {
               descriptionProdact: listModelName[index].prodctDescription,
               titelProcat: listModelName[index].prdctTitel,
               price: "${listModelName[index].prodctPrice}",
-              detlailsText: listModelName[index].prodctDetlails,
             ),
           ),
         ),
